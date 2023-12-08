@@ -21,6 +21,8 @@ Example image:
 ## Return value
 The blip handle that can be manipulated with every `SetBlip` natives
 
+NEEDS AT LEAST `SetBlipColour` TO FUNCTION CORRECTLY
+
 
 ## Examples
 ```lua
